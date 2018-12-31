@@ -1,8 +1,7 @@
 <?php
 //Include composer autoload
-include 'vendor/autoload.php';
+include '../vendor/autoload.php';
 
-include 'routes/route.php'
+include '../routes/route.php';
 
-//start flight engine
-Flight::start();
+include '../config/config.php';
