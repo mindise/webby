@@ -1,5 +1,13 @@
 {
-    "require": {
-        "mikecao/flight": "^1.3"
-    }
+    "name": "mindise/webby",
+    "description": "Webby is a php micro framework for creating static websites with clean urls and clean architecture",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rahul Ravindran",
+            "email": "rahul@mindise.in"
+        }
+    ],
+    "require": {}
 }
